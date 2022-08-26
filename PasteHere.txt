@@ -1,0 +1,1 @@
+fromimportmainimportosdefmain():f=open("PasteHere.txt",'r')data=f.read()print(data)
